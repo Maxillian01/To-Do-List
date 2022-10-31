@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(53, 20, 23);
+    height: 100vh;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.main-div{
+    background: rgb(40, 111, 147);
+    height: 70vh;
+    margin: 15%;
+    min-height: 70%;
+    min-width: 70%;
+}
+
+.header-div{
+    background: rgb(26, 1, 61);
+    padding: 3%;
+    color: rgb(203, 3, 3);
+    text-align: center;
+}
+
+.add-list-div{
+    margin: 40px;
+    background:white;
+    padding: 25px;
+    border-radius: 2px;
+}
